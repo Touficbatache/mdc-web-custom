@@ -9,4 +9,6 @@ To correctly align the icons:
   - Add the `align-icons` class to every `<a>` element, directly next to the `material-icons` class.
   - Add the `left-icon` class to the `<a>` class containing the menu icon.
   
-  A demo file will be included in this repository, in the [demo](../../tree/master/demo) folder.
+Demo files will be included in this repository, in the [demo](https://github.com/Touficbatache/mdc-web-custom/tree/master/demo) folder.
+
+You can also check what the page looked like [before](https://touficbatache.github.io/mdc-web-custom/demo/before.html) making the changes and [after](https://touficbatache.github.io/mdc-web-custom/demo/after.html).
