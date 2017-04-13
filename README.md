@@ -11,7 +11,7 @@ This edit for the [original mdc-web](https://github.com/material-components/mate
   - Add the `left-icon` class to the `<a>` class containing the menu icon.
   
 3. To fix the issue [#508](https://github.com/material-components/material-components-web/issues/508) (where a long title would jump to the next line, making it go out of the toolbar itself):
-  - Add the `mdc-toolbar--flex-adjust` class to the section tag, next to the `mdc-toolbar__section` class.
+  - Add the `mdc-toolbar--flex-adjust` class to every section tag, next to every `mdc-toolbar__section` class.
   
 > Demo files will be included in this repository, in the [demo](https://github.com/Touficbatache/mdc-web-custom/tree/master/demo) folder.
 > You can also check what the page looked like [before](https://touficbatache.github.io/mdc-web-custom/demo/before.html) and [after](https://touficbatache.github.io/mdc-web-custom/demo/after.html) making the changes.
