@@ -1,5 +1,5 @@
 # mdc-web-custom
-This edit for the [original mdc-web](https://github.com/material-components/material-components-web) adds some features to it like adding a statusbar, correctly aligning the icons on the toolbar and fixing some other issues. You can ignore one of the changes by just ignoring the steps of the change you want to ignore.
+This edit for the [original mdc-web](https://github.com/material-components/material-components-web) adds some features to it like adding a statusbar, correctly aligning the icons on the toolbar and fixing some other issues. You can ignore one of these changes by simply ignoring the steps that change the element itself.
 
 1. If you want to add a statusbar for use with the translucent plugin for phonegap:
   - Add the line `<div class="mdc-status-bar"></div>` directly under the `<body>` tag.
