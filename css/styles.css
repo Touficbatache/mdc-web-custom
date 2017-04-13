@@ -89,13 +89,17 @@
 		margin-top: -10px;
 		margin-right: -10px;
 	}
-	
+
 	.align-icons:not(:last-of-type) {
 		margin-right: 18px;
 	}
 	.align-icons:last-of-type {
-		margin-right: -6px;;
+		margin-right: -6px;
 	}
 	.align-icons-hidden {
-		margin-right: -6px;;
+		margin-right: -6px;
+	}
+	
+	.mdc-toolbar--flex-adjust:last-of-type {
+		flex: 0;
 	}
