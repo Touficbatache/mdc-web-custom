@@ -14,4 +14,4 @@ This edit for the [original mdc-web](https://github.com/material-components/mate
   - Add the `mdc-toolbar--flex-adjust` class to every toolbar element.
   
 > Demo files will be included in this repository, in the [demo](https://github.com/Touficbatache/mdc-web-custom/tree/master/demo) folder.
-> You can also check what the page looked like [before](https://touficbatache.github.io/mdc-web-custom/demo/before.html) making the changes and [after](https://touficbatache.github.io/mdc-web-custom/demo/after.html).
+> You can also check what the page looked like [before](https://touficbatache.github.io/mdc-web-custom/demo/before.html) and [after](https://touficbatache.github.io/mdc-web-custom/demo/after.html) making the changes.
